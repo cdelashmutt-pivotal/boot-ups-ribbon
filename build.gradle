@@ -20,7 +20,7 @@ dependencyManagement {
 
 jar {
     baseName = 'autoconfigure-ups-ribbon'
-    version = '0.0.1-RELEASE'
+    version = '0.0.2-SNAPSHOT'
 }
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
